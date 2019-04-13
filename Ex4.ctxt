@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ex4
+comment1.params=
+comment1.target=Ex4()
+comment2.params=p
+comment2.target=void\ setRandomPosition(javax.swing.JPanel)
+comment3.params=p
+comment3.target=void\ setRandomColor(javax.swing.JPanel)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ run()
+numComments=6
